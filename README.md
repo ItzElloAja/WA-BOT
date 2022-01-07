@@ -94,4 +94,12 @@ cd Base-DhenxsCode
 npm install
 npm start
 ```
+BOT WHATSAPP
+<p align="center">
+ <a href="https://chat.whatsapp.com/EOEpRuL7YvDCmbbO7yC9Pk"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+</p>
+
+ [`YouTube DhenxsCode`](https://youtu.be/vZsK_K0xTVI)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhenxsCode&theme=radical)
 
