@@ -1,1 +1,1 @@
-woker : npm start
+woker : npm i ffmpeg npm start
