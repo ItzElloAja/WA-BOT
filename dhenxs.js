@@ -123,13 +123,13 @@ public = true
 
 //━━━━━━━━━━━━━━━[ SETTING BOT WA ]━━━━━━━━━━━━━━━\\
 
-namabot = 'BABYGRL BOT'
-namaowner = 'Dhenxs Code'
-nomorowner = '6285697662826','6288210637739'
-nomorpremium: '62nomor'
+namabot = 'E-BOT'
+namaowner = 'ElloGanz'
+nomorowner = '6289527031603','6285696684534'
+nomorpremium: '6289527031603'
 Creator = 'WahyuRamadhan'
-Recode = 'isi Nama Mu Sendiri'
-FakeYt = 'Create DhenxsCode'
+Recode = 'ElloGanz'
+FakeYt = 'ItzElloAja'
 //━━━━━━━━━━━━━━━[ Sticker WM ]━━━━━━━━━━━━━━━\\
 
 // STICKER WM
