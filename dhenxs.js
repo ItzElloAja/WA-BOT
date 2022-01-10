@@ -92,7 +92,7 @@ const welkom = JSON.parse(fs.readFileSync('./database/welkom.json'))
 //━━━━━━━━━━━━━━━[ APIKEY ]━━━━━━━━━━━━━━━\\
 
 zerkey = 'ZeroYT7'
-lolkey = 'KurrXd' 
+lolkey = '2ddd21533bead39e5dca43ee' 
 zekskey = 'Gunturst' 
 dappa = 'TESSS' 
 
