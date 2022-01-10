@@ -73,7 +73,7 @@ dhenxs.on("group-participants-update", async (anu) => {
           "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60";
       }
       if (anu.action == "add" && mem.includes(dhenxs.user.jid)) {
-        dhenxs.sendMessage(anu.jid, "Saya BABYGRL BOT SIAP MELAYANI SILAKAN KETIK .menu", "conversation");
+        dhenxs.sendMessage(anu.jid, "Saya E BOT SIAP MELAYANI SILAKAN KETIK .menu", "conversation");
       }
 hehe = await getBuffer(pp_user)
 if (anu.action == 'add' && !mem.includes(dhenxs.user.jid)) {
